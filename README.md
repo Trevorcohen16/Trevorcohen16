@@ -15,7 +15,7 @@
   - Interactive web game development  
 
 - 🛠️ **Working On:**  
-  - **[Health Style](https://github.com/trevorcohen16/health-style)** – A health-focused web app using HTML, CSS, and JavaScript.  
+  - **[Health Style](https://github.com/Trevorcohen16/Health-Style-.git)** – A health-focused web app using HTML, CSS, and JavaScript.  
   - **[Service Web](https://github.com/trevorcohen16/service-web)** – A service platform that connects users with service providers.  
   - **Food Insecurity & Donations Website** – A collaborative school project to address food insecurity.  
 
