@@ -14,20 +14,13 @@
   - Web hosting & Botpress chatbot integration  
   - Interactive web game development  
 
-- 🛠️ **Working On:**  
-  - **[Health Style](https://github.com/Trevorcohen16/Health-Style-.git)** – A health-focused web app using HTML, CSS, and JavaScript.  
-  - **[Service Web](https://github.com/trevorcohen16/service-web)** – A service platform that connects users with service providers.  
-  - **Food Insecurity & Donations Website** – A collaborative school project to address food insecurity.  
+
 
 - 💡 **Interests:**  
   - Frontend & Backend Web Development  
   - UI/UX Design & Prototyping  
   - Web Games & Scalable Applications  
 
-- 🔍 **Ask Me About:**  
-  - Web Development (HTML, CSS, JS)  
-  - GitHub Pages Hosting  
-  - Basic React.js Concepts  
 
 ---
 
@@ -65,11 +58,7 @@
 
 ---
 
-## 🎯 Goals for 2025  
 
-- Contribute to open-source projects and collaborate with developers.  
-- Build a portfolio showcasing practical projects and skills.  
-- Deepen my knowledge in full-stack development and cloud technologies.  
 
 ---
 
