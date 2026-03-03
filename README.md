@@ -6,9 +6,9 @@
 </div>
 
 <!-- QUANTIFIED SELF INTRODUCTION -->
-```math
+
 \boxed{ \text{Trevor Cohen} = \int_{0}^{\infty} \left( \frac{\partial(\text{Problem Solving})}{\partial t} + \nabla \times \text{Creativity} \right) dt }
-```
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
