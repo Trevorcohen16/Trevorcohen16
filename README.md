@@ -74,7 +74,7 @@
 
 <div align="center">
 
-```mermaid
+
 mindmap
   root((Tech Stack))
     Frontend
@@ -97,7 +97,6 @@ mindmap
       Flutter
       Expo
       Android
-```
 
 </div>
 
@@ -117,7 +116,7 @@ https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&log
 
 Proficiency Matrix:
 
-```typescript
+
 const frontendProficiency = {
   nextjs: { level: 'expert', years: 3, projects: 12 },
   typescript: { level: 'advanced', years: 4, projects: 15 },
@@ -125,7 +124,6 @@ const frontendProficiency = {
   reactNative: { level: 'intermediate', years: 2, projects: 5 },
   flutter: { level: 'intermediate', years: 2, projects: 4 }
 }
-```
 
 </details>
 
