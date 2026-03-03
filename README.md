@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Trevor+Cohen;" />
 </h1>
 
-<h3 align="center">A passionate Software Engineer from Nairobi, Kenya 🇰🇪</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <div align="center">
   
@@ -125,3 +125,4 @@ Thanks for visiting! Let's connect and build something amazing together. 🚀
   <img src="https://komarev.com/ghpvc/?username=trevorcohen16&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
+```
