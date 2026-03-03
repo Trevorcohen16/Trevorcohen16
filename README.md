@@ -102,7 +102,7 @@ I believe in the power of **clean code**, **intuitive design**, and **scalable s
 
 ## 🎯 Current Focus
 
-```javascript
+
 const trevor = {
   learning: ["Next.js 14", "FastAPI Best Practices", "System Design"],
   building: "Something revolutionary (shh... it's a secret 🤫)",
@@ -125,4 +125,4 @@ Thanks for visiting! Let's connect and build something amazing together. 🚀
   <img src="https://komarev.com/ghpvc/?username=trevorcohen16&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
-```
+
