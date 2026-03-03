@@ -5,9 +5,7 @@
   Building scalable web & mobile applications with modern technologies.
 </p>
 
-<p align="center">
-  Kampala, Uganda 🌍
-</p>
+
 
 ---
 
