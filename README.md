@@ -155,10 +155,10 @@ https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor
 
 Deployment Pipeline:
 
-```bash
+
 git push → CI/CD → Automated Tests → Build → Deploy → Monitor
 [ 5min ]  [ 2min ]   [ 3min ]      [ 2min ] [ 1min ] [ ∞ ]
-```
+
 
 </details>
 
@@ -223,7 +223,7 @@ Contribution Graph 2024
 
 <div align="center">
 
-```javascript
+
 // Current R&D Projects
 class InnovationLab {
   constructor() {
@@ -252,7 +252,7 @@ class InnovationLab {
 
 const lab = new InnovationLab();
 lab.collaborate('your-open-source-project');
-```
+
 
 </div>
 
@@ -266,9 +266,9 @@ https://leetcard.jacoblin.cool/trevorcohen16?theme=dark&font=Fira%20Code&ext=con
 
 Solved Problems Distribution:
 
-```math
+
 \text{Total Solved} = \underbrace{150}_{\text{Easy}} + \underbrace{200}_{\text{Medium}} + \underbrace{50}_{\text{Hard}} = 400 \text{ problems}
-```
+
 
 </div>
 
@@ -278,7 +278,7 @@ Solved Problems Distribution:
 
 <div align="center">
 
-```mermaid
+
 gantt
     title Technical Growth Trajectory
     dateFormat  YYYY-MM
@@ -293,7 +293,7 @@ gantt
     section AI/ML
     TensorFlow.js             :2024-05, 4M
     LLM Integration           :2024-07, 4M
-```
+
 
 </div>
 
@@ -362,4 +362,4 @@ gantt
 <!-- WAVES FOOTER -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-```
+
