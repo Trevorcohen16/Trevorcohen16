@@ -26,6 +26,7 @@ I enjoy solving real-world problems, designing clean architectures, and writing 
 - 🔐 Authentication & Role-Based Systems
 - 🏗 Clean Architecture & Modular Codebases
 - 🚀 Performance Optimization & Deployment Pipelines
+- UX and UI design
 
 ---
 
